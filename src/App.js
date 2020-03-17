@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import ValidationComponent from './ValidationComponent/ValidationComponent'
-import CharComponent from './CharComponent/CharComponent'
+import ValidationComponent from './Validation/Validation'
+import CharComponent from './Char/Char'
 import { uuid } from 'uuidv4'
 
 class App extends Component {
